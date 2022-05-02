@@ -1,0 +1,10 @@
+#Kylah Kerr 
+#kylah.kerr34@myhunter.cuny.edu
+#October 2017
+#Shell script:  creates directories for project
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results
